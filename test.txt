@@ -6,4 +6,13 @@ test
 
 
 pppp
+<<<<<<< HEAD
 post
+=======
+post
+oooo
+
+
+
+iiiiiiii
+>>>>>>> rajith
